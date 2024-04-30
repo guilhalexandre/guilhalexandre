@@ -1,4 +1,4 @@
-## Guilherme Alexandre
+## Guilherme Alexandre :wave:
 
 ##### Comprometido em constantemente ampliar meus horizontes na área da tecnologia, estou em busca de conhecimentos e experiências que não apenas fortaleçam minha base profissional, mas também impulsionem meu desenvolvimento pessoal. Atualmente estudando Tecnologia da Informação.
 
@@ -15,15 +15,7 @@
 </div>
 
 ##
-<a href="https://www.linkedin.com/in/guilherme-alexandre/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-</a>
-<a href="https://www.instagram.com/guilhalexandre/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-<a href="mailto:contato.guimalexandre@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
-</a>
-<a href="https://www.dio.me/users/contato_guimalexandre">
-  <img src="https://img.shields.io/badge/DIO-6001D2?style=for-the-badge&logo=DIO!&logoColor=white" /> 
-</a>
+<a href="https://www.linkedin.com/in/guilherme-alexandre/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/guilhalexandre/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:contato.guimalexandre@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.dio.me/users/contato_guimalexandre" target="_blank"><img src="https://img.shields.io/badge/DIO-6001D2?style=for-the-badge&logo=DIO!&logoColor=white" target="_blank"></a>
