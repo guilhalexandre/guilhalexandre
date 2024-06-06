@@ -1,6 +1,6 @@
 ## Guilherme Alexandre :wave:
 
-##### Comprometido em constantemente ampliar meus horizontes na área da tecnologia, estou em busca de conhecimentos e experiências que não apenas fortaleçam minha base profissional, mas também impulsionem meu desenvolvimento pessoal. Atualmente estudando Tecnologia da Informação.
+##### Comprometido em constantemente ampliar meus horizontes na área da tecnologia, estou em busca de conhecimentos e experiências que não apenas fortaleçam minha base profissional, mas também impulsionem meu desenvolvimento pessoal.
 
 
 ##### Tecnologias e ferramentas que estou praticando:
