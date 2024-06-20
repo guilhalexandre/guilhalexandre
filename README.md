@@ -1,8 +1,4 @@
 ## Guilherme Alexandre :wave:
-
-##### Comprometido em constantemente ampliar meus horizontes na área da tecnologia, estou em busca de conhecimentos e experiências que não apenas fortaleçam minha base profissional, mas também impulsionem meu desenvolvimento pessoal.
-
-
 ##### Tecnologias e ferramentas que estou praticando:
 <div>
   <img width="30" height="30 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
